@@ -1,0 +1,244 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: whitesmoke;
+}
+#box1{
+    height:4rem;
+    background-color: rgb(73, 72, 72);
+    color: white;
+    font-size: 3rem;
+    
+}
+#tt{
+    font-size: 4rem;
+}
+p{
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+}
+#box2{
+    background-color: white ;
+    height: 2.5rem;
+}
+.search{
+    display: inline-block;
+    margin-left: 1.25rem;
+    color: black;
+    margin-top: 0.6rem;
+    font-display: bold;
+
+}
+.search:hover{
+    background-color: black;
+    color: white;
+    margin:0;
+    padding-left:1rem;
+    padding-top: 0.6rem;
+    padding-right: 1rem;
+    padding-bottom: 0.5rem;
+}
+select{
+    border: none;
+}
+
+#box3{
+    background-color: rgb(241, 238, 238);
+    height: 2.3rem;
+}
+.bn{
+    display: inline-block;
+    
+}
+
+#d0{
+    background-image: url(photo1.jpg);
+    width: 430px;
+    height: 430px;
+    background-size: cover;
+    margin-left: 10px;
+    border-radius: 4%;
+    display: inline-block;
+    padding-bottom: 36px;
+
+}
+#content0{
+    /* display: inline-block; */
+    margin-top: 250px;
+    margin-left: 20px;
+    /* background-color: rgb(114, 14, 14) */
+    color: white;
+    
+    /* padding: 3px; */
+}
+#content1{
+    margin-top: 250px;
+    margin-left: 20px;
+    color: white;
+}
+#opt1{
+    background-color: rgb(114,14,14);
+    border-radius: 20px;
+    padding: 5px;
+    display: inline-block;
+    margin-left: 10px;
+}
+#theme{
+    border-radius: 50%;
+    height: 40px;
+}
+#headline0{
+    color: white;
+    margin-left: 10px;
+    font-size: 30px;
+}
+#opt2{
+    display: inline-block;
+    color: white;
+    margin-left: 10px;
+    color: rgb(242, 255, 0);
+    font-size: 18px;
+}
+#d1{
+    background-image: url(photo2.jpg);
+    width: 300px;
+    height: 430px;
+    background-size: cover;
+    margin-left: 10px;
+    border-radius: 4%;
+    display: inline-block;
+    padding-top: 20px;
+    padding-bottom: 16px;
+}
+#opt3{
+    display: inline;
+    font-size: 17px;
+    color: rgb(242, 255, 0);
+}
+#d2{
+    display: inline-block;
+}
+#li1{
+    background-image: url(photo3.jpg);
+    width: 300px;
+    height: 210px;
+    background-size: cover;
+    margin-left: 10px;
+    border-radius: 4%;
+    padding-top: 20px;
+    display: inline-block;
+}
+#li2{
+    background-image: url(photo4.jpg);
+    width: 300px;
+    height: 210px;
+    background-size: cover;
+    margin-left: 10px;
+    border-radius: 4%;
+    margin-top: 10px;
+    padding-top: 20px;
+}
+#con1{
+    margin-top: 30px;
+    margin-left: 20px;
+    padding-top:20px ;
+    color: white;
+}
+#d3{
+    display: inline-block;
+    margin-left: 20px;
+    
+}
+.new{
+    width: 150px;
+    height: 40px;
+    margin-left: 1px;
+    font-size: 40px;
+    padding: 13px;
+    display: inline-block;
+    text-align: center;
+    border: outset;
+}
+.new:hover{
+    background-color: black;
+    color: white;
+}
+
+#cal3{
+    width: 10px;
+
+}
+#cal1{
+    height: 20px;
+}
+#image4{
+    width: 50px;
+    height: 50px;
+    margin-top: 5px;
+    
+}
+.headn{
+    height: 45px;
+    margin-left: 0;
+    display: inline-block;
+    font-size: 19px;
+}
+
+#image5{
+    width: 50px;
+    height: 50px;
+    margin-top: 5px;
+    
+}
+
+
+#image6{
+    width: 50px;
+    height: 50px;
+    margin-top: 5px;
+    
+}
+#image7{
+    width: 50px;
+    height: 50px;
+    margin-top: 5px;
+    
+}
+#image8{
+    width: 50px;
+    height: 50px;
+    margin-top: 5px;
+    
+}
+#image9{
+    width: 50px;
+    height: 50px;
+    margin-top: 5px;
+    
+}
+#news1:hover{
+    background-color: black;
+    color: white;
+}
+#news2:hover{
+    background-color: black;
+    color: white;
+}
+#news3:hover{
+    background-color: black;
+    color: white;
+}
+#news4:hover{
+    background-color: black;
+    color: white;
+}
+#news5:hover{
+    background-color: black;
+    color: white;
+}
+#news6:hover{
+    background-color: black;
+    color: white;
+}
